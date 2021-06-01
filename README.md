@@ -5,7 +5,7 @@ A new Flutter Mindfulness_Flutter application. Designed by Adarsh Goldar and Cod
 ## Kishor Kc
 
 ### For this project, I have used this package
-1. flutter_svg: ^0.22.0
+1. flutter_svg
 2. font_awesome_flutter
 3. flutter_staggered_grid_view
 ##

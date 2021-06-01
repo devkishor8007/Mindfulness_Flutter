@@ -1,16 +1,18 @@
 # mindfulness_flutter
 
-A new Flutter project.
+A new Flutter Mindfulness_Flutter application. Designed by Adarsh Goldar and Code with Flutter by Kishor Kc.
 
-## Getting Started
+## Kishor Kc
 
-This project is a starting point for a Flutter application.
+Design credit by Adarsh Goldar [see the profile](https://dribbble.com/AdarshGo)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Mindfulness_Flutter App Final UI/UX
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+<img src="https://user-images.githubusercontent.com/73419211/120284133-a9f58b80-c2db-11eb-8d05-479a1f5626ea.jpg" height="500" width="260">
+<img src="https://user-images.githubusercontent.com/73419211/120284148-acf07c00-c2db-11eb-9832-92b5c0d15b9e.jpg" height="500" width="260"> 
+<img src="https://user-images.githubusercontent.com/73419211/120284167-b37ef380-c2db-11eb-8a14-18523d020b83.jpg" height="500" width="260">
+<img src="https://user-images.githubusercontent.com/73419211/120284161-b11c9980-c2db-11eb-8af2-7fb545052a89.jpg" height="500" width="260">
+<img src="https://user-images.githubusercontent.com/73419211/120284171-b548b700-c2db-11eb-85da-9250874fbce0.jpg" height="500" width="260">
+</p>
